@@ -6,7 +6,7 @@ This is app is a provides a way for a college student to introduce themselves an
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/XaFEQSLwYM.gif" width=200>
+<img src="http://g.recordit.co/LkL8K3j2O0.gif" width=200>
 
 
 ### Required Features
